@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [https://your-solution-url.com](https://your-solution-url.com)
+- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
 
 ## My process
 
