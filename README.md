@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://your-solution-url.com](https://your-solution-url.com)
-- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/solutions/html-css-flexbox-uI05nL4Iu3)
+- Live Site URL: [](https://digigrrl525.github.io/FM-Stats-Preview-Card-Component/)
 
 ## My process
 
