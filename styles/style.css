@@ -30,6 +30,16 @@ body {
     height: 300px;
  }
 
+ #overlay {
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: var(--soft-violet);
+    opacity: 0.5;
+ }
+
  .sell {
     display: flex;
     flex-direction: column;
